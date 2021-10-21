@@ -1,0 +1,58 @@
+body {
+    background: #f7f7f7 !important;
+}
+
+.nav {
+    border-radius: 0 !important;
+    padding: 5px 0 5px 0 !important;
+    background-color: goldenrod !important;
+}
+
+.mb-5 {
+    margin-bottom: 5px !important;
+}
+
+.mt-5 {
+    margin-top: 5px !important;
+    /*color: black !important;*/
+}
+
+.mt-15 {
+    margin-top: 15px !important;
+    /*color: black !important;*/
+}
+
+.my_modal {
+    width: 700px !important;
+    top: 50px !important;
+    margin-bottom: 2px !important;
+    /*font-size: 18px !important;*/
+}
+
+.bwhite-lg {
+    background-color: transparent !important;
+}
+
+.bwhite-sm {
+    background-color: transparent !important;
+    width: 10px !important;
+}
+
+.comment-box {
+    display: none;
+    color: black !important;
+}
+
+/*SADASDASDASDAS*/
+
+.not-visible {
+    display: none;
+}
+
+.search-focus {
+    background-color: palegreen;
+}
+
+.item {
+    text-decoration: None;
+}
